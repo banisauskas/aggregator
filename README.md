@@ -74,4 +74,4 @@ Get aggregate `id=1`:
 ```
 GET http://localhost:8080/aggregates/1
 ```
-Note: call multiple times until `finalResult: false`.
+Note: call multiple times until `finalResult: true`.
